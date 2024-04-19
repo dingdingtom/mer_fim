@@ -1,0 +1,6 @@
+numpy==1.21.2
+pytorch-lightning==1.5.1
+scikit_learn==1.2.2
+torch==1.10.0
+torchmetrics==0.6.0
+transformers==4.12.5
